@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Leocesar98
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on varius proyect that can show and improve my skills.. 
+- 👋 Hi, I’m @Leocesar98 - Business Analyst & Prodcut Owner
+- 👀 I’m interested in developing interesting Products
+- 🌱 I’m currently learning Java @ University 
+- 💞️ I’m looking to collaborate on varius proyect to help them get work done!
 - 📫 How to reach me Duarteleo98@gmail.com
 
 <!---
